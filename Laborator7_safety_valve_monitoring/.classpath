@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="D:/07_scoala/Sisteme_Pilotate_de_Evenimente_Complexe/01_Laborator_rezolvat/Lab4/libs/antlr-runtime-3.2.jar"/>
+	<classpathentry kind="lib" path="D:/07_scoala/Sisteme_Pilotate_de_Evenimente_Complexe/01_Laborator_rezolvat/Lab4/libs/cglib-nodep-2.2.jar"/>
+	<classpathentry kind="lib" path="D:/07_scoala/Sisteme_Pilotate_de_Evenimente_Complexe/01_Laborator_rezolvat/Lab4/libs/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/07_scoala/Sisteme_Pilotate_de_Evenimente_Complexe/01_Laborator_rezolvat/Lab4/libs/esper-4.9.0.jar"/>
+	<classpathentry kind="lib" path="D:/07_scoala/Sisteme_Pilotate_de_Evenimente_Complexe/01_Laborator_rezolvat/Lab4/libs/log4j-1.2.16.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
